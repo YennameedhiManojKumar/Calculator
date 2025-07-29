@@ -6,7 +6,7 @@ This is a simple, responsive **Online Calculator** web application built using *
 
 ## 📸 Preview
 
-![Calculator UI Preview](preview.png) <!-- Optional: Add a screenshot named preview.png -->
+![Calculator UI Preview](preview.png) 
 
 ---
 
